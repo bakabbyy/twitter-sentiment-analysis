@@ -12,3 +12,4 @@ twitter_creds.py
 .idea/modules.xml
 *.xml
 *.iml
+twitter_creds.py
