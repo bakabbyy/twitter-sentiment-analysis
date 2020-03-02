@@ -13,3 +13,5 @@ twitter_creds.py
 *.xml
 *.iml
 twitter_creds.py
+.ipynb_checkpoints/tweets_scrape-checkpoint.py
+.ipynb_checkpoints/time_series_sentiment_analysis-checkpoint.ipynb

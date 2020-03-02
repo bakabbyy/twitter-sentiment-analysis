@@ -30,4 +30,4 @@ for i, hashtag in enumerate(hashtags):
     print(f'Completed {i + 1} of {len(hashtags)} iterations...')
 
 tweets_df = pd.concat(all_frames)
-tweets_df.to_pickle("old_hashtag_tweets.pkl")
+tweets_df.to_pickle("scraped_tweets.pkl")
