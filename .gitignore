@@ -15,3 +15,7 @@ twitter_creds.py
 twitter_creds.py
 .ipynb_checkpoints/tweets_scrape-checkpoint.py
 .ipynb_checkpoints/time_series_sentiment_analysis-checkpoint.ipynb
+.gitignore
+.data
+.git
+__pychache__/
